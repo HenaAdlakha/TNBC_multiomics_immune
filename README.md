@@ -51,7 +51,7 @@ Download instructions are in each script header.
 | `22_final_analysis.R` | Final Cox model; within-subgroup analyses; freeze analysis |
 | `23_Tests.R` | PCA ANOVA tests and omics contribution analysis (AUC) |
 | `24_TIGIT_target.R` | TIGIT survival analysis; combined immune + TIGIT stratification |
-| `25_Variance_Omics.R` | Variance explained and single-omics predictive power per layer |
+| `25_variance_omics.R` | Variance explained and single-omics predictive power per layer |
 | `Untitled.R` | Scratch script used during development |
 
 ## Analysis Pipeline
